@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently studying Computer 💻 Engineering at Canterbury University in leafy 🌳 Christchurch, New Zealand. I'm currently working on a variety of small personal projects.
+
 <!--
 **AlexStiles7869/alexstiles7869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
